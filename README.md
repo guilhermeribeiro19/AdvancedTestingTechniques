@@ -1,7 +1,7 @@
 # AdvancedTestingTechniques
 This is a repo for doing advanced testing
 .
-
+[![Python application test with Github actions](https://github.com/guilhermeribeiro19/AdvancedTestingTechniques/actions/workflows/status.yml/badge.svg)](https://github.com/guilhermeribeiro19/AdvancedTestingTechniques/actions/workflows/status.yml)
 Just Python 3.8
 
 ![Advanced Testing with Github Actions](https://github.com/noahgift/advanced-testing-techniques/workflows/Advanced%20Testing%20with%20Github%20Actions/badge.svg)
